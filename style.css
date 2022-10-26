@@ -1,0 +1,17 @@
+#jumbotron {
+  padding-top: 6rem;
+  background-color: #e6ffff;
+}
+
+#services {
+  background-color: #e6ffff;
+}
+
+#about, #services, #contact {
+  padding-top: 6rem;
+}
+
+#services a {
+  text-decoration: none;
+  color: black;
+}
